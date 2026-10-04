@@ -1,4 +1,4 @@
-# Antigravity DermNet Triage Core (Edge AI)
+# DermNet Triage Core (Edge AI)
 
 An offline-first, on-device clinical decision support engine for dermatological triage. Powered by **EfficientNetV2-B3**, optimized with FP16 quantization for sub-40ms latency on mobile edge devices (Android/iOS via Flutter).
 
