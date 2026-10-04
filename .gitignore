@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Datasets
+dataset/
+*.zip
+*.tar.gz
+
+# Cache
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Temporary checkpoints
+*.ckpt
+saved_model_temp/*.keras
+
+*.keras
